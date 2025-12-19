@@ -37,3 +37,5 @@ students_names = [
 ]
 
 print(students_names)
+
+# вгпраопварпорфыпоо byNeketa
