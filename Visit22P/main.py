@@ -9,12 +9,6 @@ students_names = [
     "Даниил Дегтерев",
     "Криничев Валера",
 
-
-    # ещкере
-    "Урыкин Артема"
-    #GIGIZASHAGI
 ]
 
 print(students_names)
-
-с = 5
