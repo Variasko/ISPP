@@ -12,6 +12,9 @@ students_names = [
 
     # ещкере
     "Урыкин Артема"
+    #GIGIZASHAGI
 ]
 
 print(students_names)
+
+с = 5
